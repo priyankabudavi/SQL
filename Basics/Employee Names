@@ -1,2 +1,4 @@
-Samples Example fetching Employee Details  : 
+Sample Example fetching Salesman Details  : 
 
+Select *
+from salesman;
