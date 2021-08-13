@@ -1,0 +1,2 @@
+
+Select * from Worker where DEPARTMENT like 'Admin%';
